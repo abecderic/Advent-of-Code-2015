@@ -15,3 +15,5 @@ Your puzzle answer was 254575.
 Now find one that starts with six zeroes.
 
 Your puzzle answer was 1038736.
+
+Your puzzle input was bgvyzdsv.
